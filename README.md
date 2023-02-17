@@ -3,12 +3,24 @@ Review of the production data to help the manufacturing team troubleshoot and br
 
 ## Linear Regression to Predict MPG
 
+![Alt text](https://github.com/sofiwolfes/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable%201.png)
+
+
 
 ## Summary Statistics on Suspension Coils
+
+![Alt text](https://github.com/sofiwolfes/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable%202.1.png)
+
+![Alt text](https://github.com/sofiwolfes/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable%202.2.png)
 
 
 
 ## T-Tests on Suspension Coils
+
+![Alt text](https://github.com/sofiwolfes/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable%203.1.png)
+
+![Alt text](https://github.com/sofiwolfes/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable%203.2.png)
+
 
 
 ## Study Design: MechaCar vs Competition
