@@ -35,6 +35,7 @@ lot_summary <- SuspensionCoil %>% group_by(Manufacturing_Lot) %>%
             Variance = var(PSI),
             SD = sd(PSI), .groups= 'keep')
 
+
 # Deliverable 3
 # T-test on suspension coils to determine lot difference from mean of 1,500 psi
 t.test(SuspensionCoil$PSI, mu=1500)
